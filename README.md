@@ -26,5 +26,3 @@ You're welcome to explore a bunch of my public repos, most of them recently upda
 
 ## Misc. archived repos
 - [Kids Puzzle Adventure](https://github.com/xtiandiaz/kpa): a simple but cute jigsaw puzzle game app, built long-ago with PixiJS, and formerly sold on Envato's Codecanyon.
-
-Plus more in my mind to land here eventually... It does take time, and nurturing. And please, bear with me, because **I don't use "AI", at all!**
